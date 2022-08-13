@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Betül Aksu</h1>
 - 🌱 I’m currently learning React
-<img align="right" src="https://i.gifer.com/7S7L.gif" alt="coding">
+<img width="500" align="right" src="https://cdn.dribbble.com/users/891352/screenshots/2816929/design-with-code.gif" alt="coding">
 
 - 📫 How to reach me **bettulaksu@gmail.com**
 
