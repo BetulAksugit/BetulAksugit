@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Betül Aksu</h1>
+
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **bettulaksu@gmail.com**
