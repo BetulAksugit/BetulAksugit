@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Betül Aksu</h1>
+<h1 align="center">Hi 👋, I'm Betül </h1>
 
 - 🌱 I’m currently learning **React**
 
